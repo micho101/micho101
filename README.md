@@ -1,8 +1,9 @@
 ### Hi there, I'm Crismike4all Sec
-- ☠️ I love hacking At All
+- ☠️ I love hacking
 - ☠️ I’m currently learning everything
 - ☠️ I"m learing code 
- 
+- ☠️ Trying to learn Python & SQLI 
+  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=greensize=27&lines=𝙸+𝙰𝙼+MIKE+CRIS;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+GUYS;𝙸𝚃'𝚜+𝙰+CATMINGMING;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
