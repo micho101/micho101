@@ -4,7 +4,7 @@
 - ☠️ I"m learing code 
 - ☠️ Trying to learn Python & SQLI 
   
-
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=greensize=27&lines=𝙸+𝙰𝙼+Spyman+hacorbar;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+GUYS;𝙸𝚃'𝚜+𝙰+CATMINGMING;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <p align="center"> 
