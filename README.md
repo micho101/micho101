@@ -1,7 +1,9 @@
 # Hi, There Fellow Hacker / Coder
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=3000&color=00FF28&width=880&lines=No+technology+that's+connected+to+internet+is+unhackable.)](https://git.io/typing-svg)
 <div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  <a href="https://github.com/Mrp1r4t3">
+   <img align="center" height="157" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micho101&layout=compact&langs_count=16&theme=blue-green"/>
+  <img align="center" width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=Micho101&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
   
 <h2>Programing / Scripting Languages That I Learned And Used.</h2>
